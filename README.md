@@ -154,3 +154,9 @@ In this study, we developed and evaluated two convolutional neural network model
 The results indicate that deep learning techniques, specifically CNNs, can effectively assist in the diagnosis of pneumonia, potentially reducing the workload of radiologists and improving diagnostic accuracy. Future work could involve exploring more advanced architectures, incorporating more diverse datasets, and deploying the models in clinical settings for real-world evaluation.
 
 This project showcases the potential of deep learning in medical image analysis and highlights the importance of rigorous evaluation and model comparison to identify the best-performing solutions.
+
+References
+
+Kermany, D. S., Goldbaum, M., Cai, W., Valentim, C. C. S., Liang, H., Baxter, S. L., ... & Zhang, K. (2018). Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning. Cell, 172(5), 1122-1131.e9. DOI: 10.1016/j.cell.2018.02.010
+
+P. T. Mooney, "Chest X-Ray Images (Pneumonia)," Kaggle, [Online]. Available: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
